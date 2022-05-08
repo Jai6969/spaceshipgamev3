@@ -1,1 +1,1 @@
-# spaceshipgamev3
+# spaceship-game-v2
